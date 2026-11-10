@@ -1,0 +1,1 @@
+study_id,first_author,year,trial_name,nct_id,drug,dose,comparator,n_intervention,n_control,mean_age,pct_female,lvef_cutoff,followup_months,primary_events_int,primary_events_ctrl,cv_death_int,cv_death_ctrl,hfh_int,hfh_ctrl,hr_primary,hr_ci_low,hr_ci_high,rob_overall,notes
